@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /en/
-  - title: "Services"
-    url: /en/services/
+  - title: "Projects"
+    url: /en/projects/
   - title: "Blog"
     url: /en/blog/
   - title: "Shop"
