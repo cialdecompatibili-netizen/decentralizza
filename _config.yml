@@ -42,7 +42,13 @@ search: true
 
 # SEO globale
 author:
-  name: ""
+  name: "Decentralizza"
+  avatar: "/assets/images/consulente-decentralizza.webp"
+  bio: "Hai domande sul progetto o vuoi partecipare? Scrivici: rispondiamo volentieri."
+  links:
+    - label: "Contatti"
+      icon: "fas fa-fw fa-envelope"
+      url: "/contatti/"
 
 social:
   links: []

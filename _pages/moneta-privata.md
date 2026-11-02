@@ -3,7 +3,7 @@ layout: single
 title: "Moneta privata: la tecnologia spiegata"
 permalink: /progetti/moneta-privata/
 ref: moneta-privata
-author_profile: false
+author_profile: true
 seo_description: "Come funziona una moneta digitale privata: firme ad anello, indirizzi stealth, importi nascosti, rete e rischi. Guida per investitori e appassionati."
 ---
 

@@ -2,7 +2,7 @@
 layout: single
 title: "Private coin: the technology explained"
 description: "How a private digital currency works: ring signatures, stealth addresses, hidden amounts, network and risks. A guide for investors and enthusiasts."
-author_profile: false
+author_profile: true
 ref: moneta-privata
 lang: en
 locale: en
